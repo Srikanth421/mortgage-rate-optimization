@@ -11,6 +11,15 @@ This project proposes a framework to recommend mortgage rates that:
 - Maximize expected profit
 - Constrain pricing to remain customer-friendly
 
+## Dataset
+
+This project uses a publicly available Freddie Mac dataset (preprocessed version):
+
+https://www.kaggle.com/datasets/nikunjhemani/freddie-macs-dataset-pre-processed/data
+
+Due to size and licensing considerations, the dataset is not included in this repository.
+
+
 ## Key Results
 
 - Model AUC: ~0.79
