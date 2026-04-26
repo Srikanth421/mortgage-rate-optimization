@@ -52,10 +52,6 @@ PDF available at:
 
 paper/mortgage_optimization.pdf
 
-## Dataset
-
-Based on publicly available Freddie Mac loan-level data.
-
 ## Reproducibility
 
 Run the notebook step-by-step to reproduce results.
